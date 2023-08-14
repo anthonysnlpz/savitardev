@@ -1,4 +1,4 @@
-- 👋 Hola, Soy @savitardev
+- 👋 Hola, Soy Anthony Solano López
 - 👀 Estoy interesado en aprender las nuevas tecnologías pero mas por el desarrollo frontend
 - 🌱 Actualmente estoy aprendiendo a nivel avanzado, html, css y javascript
 - 💞️ Estoy buscando desarrollo de experiencia en el frontend
